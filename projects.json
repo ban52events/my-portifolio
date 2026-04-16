@@ -1,0 +1,92 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "The Grand Wedding — Kato & Olivia",
+      "category": "Weddings",
+      "description": "A stunning 250-guest wedding ceremony and reception held in Kampala. We delivered full venue decor including suspended floral installations, custom chair covers, golden lighting, professional ushers, and a live DJ set that kept the dance floor electric all night.",
+      "image": "images/ban52.jpg",
+      "emoji": "💍",
+      "tags": ["Full Decor", "DJ", "Ushers", "250 Guests"],
+      "featured": true,
+      "year": "2024"
+    },
+    {
+      "id": 2,
+      "title": "Makerere Graduation Gala 2024",
+      "category": "Graduation",
+      "description": "An unforgettable graduation celebration for 600 graduates and families. We transformed the main hall with elegant draping, custom centrepieces, professional MCs, and a dance crew that brought the energy to a whole new level.",
+      "image": "",
+      "emoji": "🎓",
+      "tags": ["MC", "Dance Crew", "Decor", "600 Guests"],
+      "featured": false,
+      "year": "2024"
+    },
+    {
+      "id": 3,
+      "title": "Sweet 21 Birthday Bash — Aisha",
+      "category": "Birthday",
+      "description": "A vibrant rooftop birthday celebration with a custom pink & gold balloon arch, candy table, DJ set, photo booth, and our signature usher team to welcome over 150 guests in style.",
+      "image": "",
+      "emoji": "🎂",
+      "tags": ["Balloon Decor", "DJ", "Photo Booth", "150 Guests"],
+      "featured": false,
+      "year": "2024"
+    },
+    {
+      "id": 4,
+      "title": "St. Mary's College Prom Night",
+      "category": "Graduation",
+      "description": "The most talked-about highschool prom in Kampala. From the red carpet arrival to the DJ set and dance crew performance — we made sure every student felt like a star.",
+      "image": "",
+      "emoji": "🏫",
+      "tags": ["Highschool", "DJ", "Red Carpet", "300 Guests"],
+      "featured": true,
+      "year": "2023"
+    },
+    {
+      "id": 5,
+      "title": "Horizon Group Corporate Awards Night",
+      "category": "Corporate",
+      "description": "A black-tie corporate awards evening for 400 executives. Full stage production, branded backdrops, professional MC hosting, award ceremony coordination, and a curated entertainment lineup.",
+      "image": "",
+      "emoji": "🏛",
+      "tags": ["MC", "Stage Production", "Awards", "400 Guests"],
+      "featured": false,
+      "year": "2023"
+    },
+    {
+      "id": 6,
+      "title": "David & Grace Engagement Ceremony",
+      "category": "Weddings",
+      "description": "A romantic garden engagement setup with a floral arch, customized backdrop, fairy lights, and intimate table settings for 80 guests. Pure elegance from start to finish.",
+      "image": "",
+      "emoji": "💑",
+      "tags": ["Engagement", "Floral", "Garden Setup", "80 Guests"],
+      "featured": false,
+      "year": "2024"
+    },
+    {
+      "id": 7,
+      "title": "Kampala Live Stage Show",
+      "category": "Stage Show",
+      "description": "A high-energy live concert experience featuring our full sound engineering team, stage lighting rig, LED screens, and event host coordination for a crowd of 1,200 attendees.",
+      "image": "",
+      "emoji": "🎤",
+      "tags": ["Sound Engineering", "Lighting", "LED Screens", "1,200 Crowd"],
+      "featured": false,
+      "year": "2023"
+    },
+    {
+      "id": 8,
+      "title": "Kids Wonderland Birthday Party",
+      "category": "Birthday",
+      "description": "A magical themed birthday party for a 7-year-old with full cartoon decor, a balloon castle, face painting station, and an energetic MC who kept every child entertained.",
+      "image": "",
+      "emoji": "🎈",
+      "tags": ["Kids Party", "Themed Decor", "MC", "Face Painting"],
+      "featured": false,
+      "year": "2024"
+    }
+  ]
+}
